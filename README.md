@@ -1,3 +1,2 @@
 # Permutation_counter
-Calculate the number of permutations of an arbitrarily large number /n
-requirements: GMP
+Calculate the number of permutations of an arbitrarily large number. Requirements: GMP
